@@ -1,0 +1,46 @@
+.bod{
+	margin:0px;
+	padding: 0px;
+	font-family: 'Source Code Pro', monospace;
+	
+	background-color: #FBD28B;
+}
+h1{
+	font-family: 'Bitter', serif;
+	margin:40px;
+
+}
+#myInput{
+	width: 400px;
+	height: 40px;
+	display: inline-block;
+}
+.btn{
+	margin:20px 10px;
+}
+.form-control{
+	margin: 0 auto;
+}
+ul {
+	list-style-type: none;
+}
+.close {
+  position: absolute;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.close:hover {
+  
+  color: red;
+
+}
+.footer {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
